@@ -6,7 +6,7 @@
 
 ## Walkthrough
 
-Watch the full project walkthrough here: [Insert Loom Link]
+Watch the full project walkthrough here: https://www.loom.com/share/b06a73b5a5da4d5e9679511a64872cb7
 
 ---
 
